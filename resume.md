@@ -33,6 +33,7 @@ Proven track record delivering **$1.6M+ in hard cost savings**, automating **300
 - **High-Performance Data & Analytics:** Client-Side DuckDB-WASM, Apache Parquet (175x Compression Optimization), S3 Analytical Data Pipelines.
 - **Distributed Fleet Provisioning:** Peer-to-Peer (P2P) Binary Distribution System, Zero-Touch Provisioning (ZTP), Jinja2 Templating Engines.
 - **Self-Service Observability & Portals:** Modular "My Dashboard" Architecture, Executive SLA & Ticket Trend Analytics, Automated ServiceNow (SNOW) Ingestion, Cross-Domain LogScale & SolarWinds Telemetry.
+- **Event-Driven Service Fulfillment:** ServiceNow (SNOW) Catalog & Approval Workflows, AWS Serverless Event-Driven Backends, Automated DDI/DNS Lifecycle, Resilient Exception & Manual Review Routing.
 - **Applied AI & Emerging Tech (R&D):** Model Context Protocol (MCP), Context-Aware Anomaly Detection Prototypes, Local LLM Integration (Ollama).
 
 ### Pillar 2: Cybersecurity, Zero Trust & SecOps
@@ -75,6 +76,9 @@ Proven track record delivering **$1.6M+ in hard cost savings**, automating **300
 - **Zero-Touch Provisioning (ZTP) & Configuration Builder:**  
   Created an end-to-end web provisioning platform integrating Infoblox DDI, CMDB, and SolarWinds with Jinja2 templates, establishing Day-0/Day-1 Zero-Touch Provisioning for enterprise infrastructure. Achieved **$470K in cost savings**.
 
+- **Event-Driven Self-Service Fulfillment & DNS Automation Pipeline:**  
+  Architected an end-to-end automated service fulfillment pipeline integrating ServiceNow catalog forms, multi-stakeholder approval workflows, and an AWS serverless backend. Replaced manual ticket fulfillment for enterprise DDI/DNS record changes: once approved, backend consumers ingest the request, validate business logic against Infoblox, provision records, and automatically resolve the ticket. Engineered intelligent fallback handling that automatically re-routes edge cases to manual review queues with pre-compiled diagnostic payloads, eliminating operational backlogs while ensuring zero-blast-radius reliability.
+
 - **Network as Code (NaC) & Configuration Normalization Engine:**  
   Developed a high-performance multiprocessing Python engine parsing raw Cisco running configurations into vendor-agnostic YAML data models. Integrated Jinja2 templating for standard configuration rendering, drift analysis engines using `ciscoconfparse2`, and property-based test suites using `Hypothesis` and `pytest`.
 
@@ -101,7 +105,7 @@ Proven track record delivering **$1.6M+ in hard cost savings**, automating **300
 - **Security & Zero Trust Architecture:** Spearheaded multi-vendor security designs encompassing Fortinet enterprise firewalls, Zscaler cloud security (ZIA/ZPA), 802.1X NAC, and Palo Alto Networks.
 - **Enterprise Asset Lifecycle & Observability:** Engineered automated collectors scraping Cisco Smart Net Total Care (SNTC) EoX APIs, cross-referencing global hardware inventories against obsolescence roadmaps to mitigate enterprise technical debt.
 - **Executive Observability & Self-Service Portals:** Replaced full-time manual daily ITSM reporting by automating API ingestion across ServiceNow, LogScale, and SolarWinds; designed modular "My Dashboard" self-service widgets enabling custom operational views for executive leadership and engineering teams.
-- **Enterprise API Orchestration:** Designed custom REST API endpoints and middleware integrating ServiceNow (SNOW), SolarWinds, Infoblox BloxOne, Cisco DNA Center, and FortiManager for automated incident resolution and zero-touch fulfillment.
+- **Enterprise API Orchestration & Self-Service Workflows:** Architected end-to-end ServiceNow catalog forms and multi-stakeholder approval workflows backed by AWS serverless event consumers; automated manual DDI/DNS record fulfillment with intelligent validation and graceful manual review fallback routing.
 - **Infrastructure Programmability:** Implemented Netconf, Restconf, and gRPC integrations to stream infrastructure telemetry and automate configuration state enforcement.
 
 ---
