@@ -1,6 +1,6 @@
 # Rahul Bhattad
 
-**Location:** Canada (Permanent Resident — Authorized to work without sponsorship)  
+**Location:** Greater Toronto Area (GTA), Ontario, Canada (Permanent Resident — Open to GTA & Remote)  
 **Mobile:** (647) 393-7415  
 **Email:** [rahulbhattad2003@gmail.com](mailto:rahulbhattad2003@gmail.com)  
 **LinkedIn:** [linkedin.com/in/rahul-bhattad](https://www.linkedin.com/in/rahul-bhattad/)  
