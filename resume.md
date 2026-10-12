@@ -65,10 +65,10 @@ Proven track record delivering **$1.6M+ in hard cost savings**, automating **300
 
 ## Professional Experience
 
-### HCLTech (Client: Mondelēz International)
+### HCLTech (Client: Fortune 100 Multinational CPG / Food & Beverage Enterprise)
 **Lead Solutions Architect & Forward Deployed Engineer** *(Corporate Title: Lead Consultant)* | *Sep 2013 – Present*
 
-*Operating as an embedded Forward Deployed Engineer directly inside Mondelēz International’s global network operations, partnering with cross-functional network, cloud, security, and enterprise infrastructure teams across three global chapters:*
+*Operating as an embedded Forward Deployed Engineer directly inside a Fortune 100 enterprise network operations environment, partnering with cross-functional network, cloud, security, and enterprise infrastructure teams across three global chapters:*
 
 - **HCLTech Canada** | *Aug 2023 – Present*
 - **HCLTech Australia** | *Sep 2014 – Aug 2023*

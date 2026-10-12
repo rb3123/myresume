@@ -45,3 +45,11 @@ pnpm-debug.log*
 
 # Coverage & Testing
 coverage/
+
+# Private Documents & Direct Application Resumes (Kept Local Only)
+private/
+*private*
+*.doc
+*.docx
+*.pdf
+
