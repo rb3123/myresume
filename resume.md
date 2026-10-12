@@ -11,7 +11,7 @@
 ## Professional Summary
 
 **Lead Solutions Architect & Forward Deployed Engineer** *(Corporate Title: Lead Consultant)*  
-*Cisco Certified Internetwork Expert (CCIE #37708)*
+*CCIE #37708 (Alumni / Inactive)*
 
 High-impact Solutions Architect, Forward Deployed Engineer, and NetDevOps Practitioner with 15+ years of enterprise infrastructure experience, including 7+ years pioneering network automation, GitOps pipelines, big data analytical architectures, and modern SDLC governance. Operating as an embedded Forward Deployed Engineer directly inside Fortune 100 enterprise network operations—diagnosing operational friction on the front lines and translating complex operational challenges into production software, resilient microservices, and automated workflows.
 
@@ -118,5 +118,5 @@ Proven track record delivering **$1.6M+ in hard cost savings**, automating **300
 
 ## Education & Certifications
 
-- **Cisco Certified Internetwork Expert (CCIE #37708)** — Routing & Switching
+- **Cisco Certified Internetwork Expert (CCIE #37708 — Alumni / Inactive)** — Routing & Switching (Achieved lab certification; transitioned focus to Cloud Architecture, NetDevOps & Software Engineering)
 - **Bachelor of Engineering (Computer Engineering)** — University of Pune (2006 – 2010)
