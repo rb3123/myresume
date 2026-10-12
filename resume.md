@@ -1,6 +1,6 @@
 # Rahul Bhattad
 
-**Location:** Canada  
+**Location:** Canada (Permanent Resident — Authorized to work without sponsorship)  
 **Mobile:** (647) 393-7415  
 **Email:** [rahulbhattad2003@gmail.com](mailto:rahulbhattad2003@gmail.com)  
 **LinkedIn:** [linkedin.com/in/rahul-bhattad](https://www.linkedin.com/in/rahul-bhattad/)  
