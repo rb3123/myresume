@@ -28,18 +28,19 @@ Proven track record delivering **$1.6M+ in hard cost savings**, automating **300
 - **Technical Leadership & Mentorship:** Squad Architect & Technical Lead for 6 full-stack engineers; enterprise instructor and coach for 40+ infrastructure engineers transitioning to software-driven automation.
 
 ### Pillar 1: Cloud, Platform & Systems Automation
-- **Cloud Infrastructure & Serverless:** AWS (Lambda, Step Functions, Batch, API Gateway, CloudFront, DynamoDB, S3, Athena), Docker, Linux (Ubuntu/RHEL).
-- **Infrastructure as Code (IaC) & CI/CD:** Terraform, Spacelift Stacks, AWS Account Factory for Terraform (AFT), GitHub Actions, GitLab CI, Spacelift.
+- **Cloud Infrastructure & Serverless:** AWS Serverless (Lambda Python 3.12, FastAPI / Mangum, Step Functions, DynamoDB Single-Table Design, SQS, EventBridge, API Gateway, S3, Athena), Docker, Linux.
+- **Hybrid Cloud Architecture:** Secure On-Premise Proxy Gateway (bridging AWS cloud microservices with on-premise infrastructure), CloudFront CDN + AWS WAF.
+- **Infrastructure as Code (IaC) & CI/CD:** Terraform / OpenTofu, Spacelift Multi-Stack Gitflow Deployments, AWS Account Factory for Terraform (AFT), GitHub Actions, Release Please.
 - **High-Performance Data & Analytics:** Client-Side DuckDB-WASM, Apache Parquet (175x Compression Optimization), S3 Analytical Data Pipelines.
 - **Distributed Fleet Provisioning:** Peer-to-Peer (P2P) Binary Distribution System, Zero-Touch Provisioning (ZTP), Jinja2 Templating Engines.
-- **Self-Service Observability & Portals:** Modular "My Dashboard" Architecture, Executive SLA & Ticket Trend Analytics, Automated ServiceNow (SNOW) Ingestion, Cross-Domain LogScale & SolarWinds Telemetry.
+- **Self-Service Observability & Portals:** Modular "My Dashboard" Architecture, Site Reliability Dashboard (SRD), Automated ServiceNow (SNOW) Ingestion, LogScale & SolarWinds Telemetry.
 - **Event-Driven Service Fulfillment:** ServiceNow (SNOW) Catalog & Approval Workflows, AWS Serverless Event-Driven Backends, Automated DDI/DNS Lifecycle, Resilient Exception & Manual Review Routing.
 - **Applied AI & Emerging Tech (R&D):** Model Context Protocol (MCP), Context-Aware Anomaly Detection Prototypes, Local LLM Integration (Ollama).
 
 ### Pillar 2: Cybersecurity, Zero Trust & SecOps
+- **Identity & Zero Trust Access (ZTNA):** PingFederate OAuth 2.0 with HttpOnly Session Governance & RBAC, Cisco ISE, Global 802.1X NAC Enforcement across 300,000+ switch ports.
 - **Enterprise Firewalls & Automated Policy:** Fortinet (FortiGate, FortiManager, FortiAnalyzer), Palo Alto Networks, Automated JSON-RPC Policy Engines.
-- **Cloud Security & SASE:** Zscaler (ZIA, ZPA), PAC File Management, Netskope, FireMon.
-- **Identity & Zero Trust Access (ZTNA):** Cisco ISE, Global 802.1X NAC Enforcement across 300,000+ switch ports.
+- **Cloud Security & Secrets Governance:** Zscaler (ZIA, ZPA), PAC File Management, SOPS + AWS KMS Envelope Encryption, AWS WAF, Netskope, FireMon.
 - **Continuous Compliance & Auto-Remediation:** Automated Infrastructure Compliance Auditing, Closed-Loop Remediation Script Compilers (`auto-kpi-fix`).
 
 ### Pillar 3: Enterprise Networking & Hybrid Infrastructure
@@ -51,6 +52,9 @@ Proven track record delivering **$1.6M+ in hard cost savings**, automating **300
 ---
 
 ## High-Impact Project Highlights
+
+- **Enterprise Hybrid Cloud Portal & Automation Platform:**  
+  Architected the serverless cloud platform serving as the central automation, reporting, and observability hub for enterprise infrastructure operations. Built a secure on-premise proxy gateway bridging AWS serverless microservices (FastAPI on Lambda, Step Functions, DynamoDB Single-Table Design) with on-premise network systems behind corporate firewalls. Integrated enterprise PingFederate OAuth 2.0 authentication with role-based access control (RBAC), perimeter CloudFront/WAF security, and automated multi-stack Spacelift CI/CD deployments.
 
 - **Big Data Audit Analytics & Storage Architecture (ADR 0001):**  
   Authored the approved Architecture Decision Record (ADR) re-architecting the enterprise infrastructure audit data platform. Replaced legacy on-prem runners and relational databases with an AWS serverless architecture (Step Functions, Batch, S3, Athena, DynamoDB). Benchmarked and implemented **175x data compression** (199 MB JSON $\rightarrow$ 1.14 MB zstd Parquet) across 665,000+ device-KPI evaluations per run, delivering zero-latency dashboard analytics via **client-side DuckDB-WASM** directly in the browser.
@@ -100,8 +104,8 @@ Proven track record delivering **$1.6M+ in hard cost savings**, automating **300
 
 **Key Contributions & Responsibilities:**
 - **Forward-Deployed Engineering:** Embedded directly on the operational front lines to identify chronic systemic bottlenecks, translating operational pain points into production software tools, microservices, and automation pipelines.
-- **Technical Leadership & SDLC Governance:** Act as Squad Architect and Technical Lead for 6 full-stack engineers (React, TypeScript, Python, AWS, Terraform). Instituted the team's SDLC standards, sprint ceremonies, architecture reviews, and formal ADR workflows.
-- **Cloud & Infrastructure as Code:** Architected and deployed AWS cloud infrastructure using Terraform, Spacelift stacks, and AWS Account Factory for Terraform (AFT), enforcing Gitflow compliance and zero-drift infrastructure governance.
+- **Technical Leadership & Systems Architecture:** Act as Squad Architect and Technical Lead for 6 full-stack engineers; defined backend API contracts (FastAPI / Pydantic), data models, and system architecture for the React frontend, while establishing organizational SDLC standards, sprint ceremonies, and formal ADR workflows.
+- **Hybrid Cloud & Serverless Infrastructure:** Architected and deployed AWS serverless infrastructure (Lambda Python 3.12, Step Functions, DynamoDB Single-Table, SQS, API Gateway) and secure on-premise proxy gateways; managed IaC using Terraform and multi-stack Spacelift Gitflow pipelines with zero-drift governance.
 - **Security & Zero Trust Architecture:** Spearheaded multi-vendor security designs encompassing Fortinet enterprise firewalls, Zscaler cloud security (ZIA/ZPA), 802.1X NAC, and Palo Alto Networks.
 - **Enterprise Asset Lifecycle & Observability:** Engineered automated collectors scraping Cisco Smart Net Total Care (SNTC) EoX APIs, cross-referencing global hardware inventories against obsolescence roadmaps to mitigate enterprise technical debt.
 - **Executive Observability & Self-Service Portals:** Replaced full-time manual daily ITSM reporting by automating API ingestion across ServiceNow, LogScale, and SolarWinds; designed modular "My Dashboard" self-service widgets enabling custom operational views for executive leadership and engineering teams.
