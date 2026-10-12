@@ -32,6 +32,7 @@ Proven track record delivering **$1.6M+ in hard cost savings**, automating **300
 - **Infrastructure as Code (IaC) & CI/CD:** Terraform, Spacelift Stacks, AWS Account Factory for Terraform (AFT), GitHub Actions, GitLab CI, Spacelift.
 - **High-Performance Data & Analytics:** Client-Side DuckDB-WASM, Apache Parquet (175x Compression Optimization), S3 Analytical Data Pipelines.
 - **Distributed Fleet Provisioning:** Peer-to-Peer (P2P) Binary Distribution System, Zero-Touch Provisioning (ZTP), Jinja2 Templating Engines.
+- **Self-Service Observability & Portals:** Modular "My Dashboard" Architecture, Executive SLA & Ticket Trend Analytics, Automated ServiceNow (SNOW) Ingestion, Cross-Domain LogScale & SolarWinds Telemetry.
 - **Applied AI & Emerging Tech (R&D):** Model Context Protocol (MCP), Context-Aware Anomaly Detection Prototypes, Local LLM Integration (Ollama).
 
 ### Pillar 2: Cybersecurity, Zero Trust & SecOps
@@ -52,6 +53,9 @@ Proven track record delivering **$1.6M+ in hard cost savings**, automating **300
 
 - **Big Data Audit Analytics & Storage Architecture (ADR 0001):**  
   Authored the approved Architecture Decision Record (ADR) re-architecting the enterprise infrastructure audit data platform. Replaced legacy on-prem runners and relational databases with an AWS serverless architecture (Step Functions, Batch, S3, Athena, DynamoDB). Benchmarked and implemented **175x data compression** (199 MB JSON $\rightarrow$ 1.14 MB zstd Parquet) across 665,000+ device-KPI evaluations per run, delivering zero-latency dashboard analytics via **client-side DuckDB-WASM** directly in the browser.
+
+- **Executive Observability & Self-Service "My Dashboard" Platform:**  
+  Engineered an automated executive reporting and operational analytics portal, permanently eliminating a full-time manual reporting role and reallocating valuable engineering capacity to high-priority initiatives. Integrated ServiceNow REST APIs to generate real-time incident queues, closed ticket rates, and SLA breach trending lines, alongside deep telemetry queries from LogScale and SolarWinds. Scaled the architecture from static executive reports into an extensible, user-customizable "My Dashboard" widget ecosystem where leaders and engineers compose personalized analytical views.
 
 - **Enterprise SDLC & Engineering Governance Framework:**  
   Architected and institutionalized a comprehensive, end-to-end SDLC framework across the automation organization. Established structured requirement intake models, GitHub Projects governance, standard ADR templates, engineering guidelines, and automated release validation workflows.
@@ -96,6 +100,7 @@ Proven track record delivering **$1.6M+ in hard cost savings**, automating **300
 - **Cloud & Infrastructure as Code:** Architected and deployed AWS cloud infrastructure using Terraform, Spacelift stacks, and AWS Account Factory for Terraform (AFT), enforcing Gitflow compliance and zero-drift infrastructure governance.
 - **Security & Zero Trust Architecture:** Spearheaded multi-vendor security designs encompassing Fortinet enterprise firewalls, Zscaler cloud security (ZIA/ZPA), 802.1X NAC, and Palo Alto Networks.
 - **Enterprise Asset Lifecycle & Observability:** Engineered automated collectors scraping Cisco Smart Net Total Care (SNTC) EoX APIs, cross-referencing global hardware inventories against obsolescence roadmaps to mitigate enterprise technical debt.
+- **Executive Observability & Self-Service Portals:** Replaced full-time manual daily ITSM reporting by automating API ingestion across ServiceNow, LogScale, and SolarWinds; designed modular "My Dashboard" self-service widgets enabling custom operational views for executive leadership and engineering teams.
 - **Enterprise API Orchestration:** Designed custom REST API endpoints and middleware integrating ServiceNow (SNOW), SolarWinds, Infoblox BloxOne, Cisco DNA Center, and FortiManager for automated incident resolution and zero-touch fulfillment.
 - **Infrastructure Programmability:** Implemented Netconf, Restconf, and gRPC integrations to stream infrastructure telemetry and automate configuration state enforcement.
 
