@@ -20,14 +20,14 @@ Proven track record delivering **$1.6M+ in hard cost savings**, automating **300
 
 ---
 
-## Core Competencies (3+1 Framework)
+## Core Competencies & Technical Domains
 
-### Overarching: Architecture, SDLC & Technical Leadership
+### Systems Architecture, SDLC & Engineering Leadership
 - **Architecture & System Design:** Architecture Decision Records (ADRs), Distributed Systems Design, Cost/Performance Optimization, High-Scale Data Ingestion & Storage Architecture.
 - **SDLC & Engineering Governance:** Enterprise SDLC Frameworks, Gitflow Governance, Requirement Intake Models, Agile Sprint Planning, Engineering Guidelines & Code Reviews.
 - **Technical Leadership & Mentorship:** Squad Architect & Technical Lead for 6 full-stack engineers; enterprise instructor and coach for 40+ infrastructure engineers transitioning to software-driven automation.
 
-### Pillar 1: Cloud, Platform & Systems Automation
+### Cloud Platform & Systems Automation
 - **Cloud Infrastructure & Serverless:** AWS Serverless (Lambda Python 3.12, FastAPI / Mangum, Step Functions, DynamoDB Single-Table Design, SQS, EventBridge, API Gateway, S3, Athena), Docker, Linux.
 - **Hybrid Cloud Architecture:** Secure On-Premise Proxy Gateway (bridging AWS cloud microservices with on-premise infrastructure), CloudFront CDN + AWS WAF.
 - **Infrastructure as Code (IaC) & CI/CD:** Terraform / OpenTofu, Spacelift Multi-Stack Gitflow Deployments, AWS Account Factory for Terraform (AFT), GitHub Actions, Release Please.
@@ -37,13 +37,13 @@ Proven track record delivering **$1.6M+ in hard cost savings**, automating **300
 - **Event-Driven Service Fulfillment:** ServiceNow (SNOW) Catalog & Approval Workflows, AWS Serverless Event-Driven Backends, Automated DDI/DNS Lifecycle, Resilient Exception & Manual Review Routing.
 - **Applied AI & Emerging Tech (R&D):** Model Context Protocol (MCP), Context-Aware Anomaly Detection Prototypes, Local LLM Integration (Ollama).
 
-### Pillar 2: Cybersecurity, Zero Trust & SecOps
+### Cybersecurity, Zero Trust & SecOps
 - **Identity & Zero Trust Access (ZTNA):** PingFederate OAuth 2.0 with HttpOnly Session Governance & RBAC, Cisco ISE, Global 802.1X NAC Enforcement across 300,000+ switch ports.
 - **Enterprise Firewalls & Automated Policy:** Fortinet (FortiGate, FortiManager, FortiAnalyzer), Palo Alto Networks, Automated JSON-RPC Policy Engines.
 - **Cloud Security & Secrets Governance:** Zscaler (ZIA, ZPA), PAC File Management, SOPS + AWS KMS Envelope Encryption, AWS WAF, Netskope, FireMon.
 - **Continuous Compliance & Auto-Remediation:** Automated Infrastructure Compliance Auditing, Closed-Loop Remediation Script Compilers (`auto-kpi-fix`).
 
-### Pillar 3: Enterprise Networking & Hybrid Infrastructure
+### Enterprise Networking & Hybrid Infrastructure
 - **Core Routing, Switching & Wireless:** Cisco Catalyst & Nexus Switches, IOS-XE/AireOS Wireless, Cisco DNA Center (DNAC), TCP/IP (CCIE #37708 Foundation).
 - **SD-WAN & Hybrid WAN:** Aruba Edge Connect SD-WAN, Cross-Domain WAN Telemetry.
 - **DDI & Core Services:** Infoblox BloxOne DDI (DNS, DHCP, IPAM).
