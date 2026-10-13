@@ -1,6 +1,9 @@
 # Rahul Bhattad
 
-**Location:** Greater Toronto Area (GTA), Ontario, Canada (Permanent Resident — Open to GTA & Remote)  
+**Principal Solutions Architect — Cloud & Infrastructure Automation**  
+*Enterprise Systems · AWS Serverless · Hybrid Cloud Modernization · SecOps*  
+
+**Location:** Greater Toronto Area (GTA), Ontario, Canada (Permanent Resident — Authorized for any Canadian employer)  
 **Mobile:** (647) 393-7415  
 **Email:** [rahulbhattad2003@gmail.com](mailto:rahulbhattad2003@gmail.com)  
 **LinkedIn:** [linkedin.com/in/rahul-bhattad](https://www.linkedin.com/in/rahul-bhattad/)  
@@ -10,13 +13,9 @@
 
 ## Professional Summary
 
-**Lead Infrastructure & Cloud Architect | Systems Automation & Platform Engineer**  
-*(Corporate Title: Lead Consultant | Forward Deployed Engineer)*  
-*CCIE #37708 (Alumni / Inactive)*
+Principal Solutions Architect with 15+ years of enterprise experience specializing in transforming hybrid infrastructure operations into automated, cloud-native platforms. Proven track record leading distributed engineering squads, authoring foundational Architecture Decision Records (ADRs), and delivering **multi-million-dollar operational cost reductions** and **1.25M+ hours of engineering efficiency** for Fortune 100 enterprise environments.
 
-Versatile, high-impact Solutions Architect, Forward Deployed Engineer, and Systems Automation Practitioner with 15+ years of enterprise infrastructure experience spanning **Cloud & Platform Engineering**, **Cybersecurity & Zero Trust**, and **Enterprise Networking**. Operating as an embedded Forward Deployed Engineer directly inside Fortune 100 enterprise environments—diagnosing operational friction on the front lines and translating complex infrastructure challenges into production software, resilient microservices, and automated workflows.
-
-Proven track record delivering **$1.6M+ in hard cost savings**, automating **300,000+ global network interfaces**, and saving **1.25 million engineering hours** across global enterprise environments. Demonstrated technical leadership authoring foundational **Architecture Decision Records (ADRs)**, establishing organizational SDLC standards, and serving as Squad Architect & Tech Lead for a 6-engineer full-stack team. Expert in bridging enterprise infrastructure with modern cloud and data engineering (AWS Serverless, Terraform, Spacelift, DuckDB-WASM, Parquet, Python, Docker, CI/CD).
+Bridges deep domain foundations in enterprise networking and zero-trust security (Cisco, Fortinet, Zscaler) with modern software engineering (AWS Serverless, Terraform, Python, Distributed Systems). Recognized for operating as an embedded Forward Deployed Architect, diagnosing chronic operational friction at the front lines, and delivering scalable microservices, self-service portals, and automated fulfillment workflows.
 
 ---
 
@@ -94,7 +93,7 @@ Proven track record delivering **$1.6M+ in hard cost savings**, automating **300
 ## Professional Experience
 
 ### HCLTech (Client: Fortune 100 Multinational CPG / Food & Beverage Enterprise)
-**Lead Solutions Architect & Forward Deployed Engineer** *(Corporate Title: Lead Consultant)* | *Sep 2013 – Present*
+**Principal Solutions Architect & Forward Deployed Lead** *(Corporate Title: Lead Consultant)* | *Sep 2013 – Present*
 
 *Operating as an embedded Forward Deployed Engineer directly inside a Fortune 100 enterprise infrastructure operations environment, partnering with cross-functional cloud, security, and networking teams across three global chapters:*
 
