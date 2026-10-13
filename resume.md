@@ -4,10 +4,8 @@
 *Enterprise Systems · AWS Serverless · Hybrid Cloud Modernization · SecOps*  
 
 **Location:** Greater Toronto Area (GTA), Ontario, Canada (Permanent Resident — Authorized for any Canadian employer)  
-**Mobile:** (647) 393-7415  
-**Email:** [rahulbhattad2003@gmail.com](mailto:rahulbhattad2003@gmail.com)  
 **LinkedIn:** [linkedin.com/in/rahul-bhattad](https://www.linkedin.com/in/rahul-bhattad/)  
-**Live Portfolio:** [rb3123.github.io/myresume](https://rb3123.github.io/myresume)  
+**Live Portfolio & Contact:** [rb3123.github.io/myresume](https://rb3123.github.io/myresume)  
 
 ---
 
