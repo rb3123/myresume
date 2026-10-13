@@ -1,6 +1,6 @@
 # Rahul Bhattad
 
-**Staff Cloud Infrastructure Engineer | Principal Platform Engineer**  
+**Staff Cloud Infrastructure Engineer**  
 *Enterprise Cloud Platforms · Systems Automation · Hybrid Infrastructure · SecOps*  
 
 **Location:** Greater Toronto Area (GTA), Canada (Permanent Resident)  
@@ -11,7 +11,7 @@
 
 ## Professional Summary
 
-Hands-on Staff Cloud Infrastructure & Principal Platform Engineer with 15+ years of enterprise experience modernizing hybrid infrastructure operations into automated, software-defined cloud platforms. Proven track record driving organizational impact beyond individual squads—authoring foundational Architecture Decision Records (ADRs), establishing enterprise SDLC standards, and delivering **$1.6M+ in direct project savings ($2M+ inclusive of ongoing licensing and FTE automation)** and **~250K hours saved annually** for Fortune 100 environments. Combines deep foundations in enterprise networking and zero-trust security (Cisco, Fortinet, Zscaler) with production software engineering (AWS Serverless, Terraform, Python, Distributed Systems) to build high-reliability platforms adopted across global operations.
+Infrastructure and platform engineering leader with 15+ years of enterprise experience modernizing hybrid infrastructure operations into automated, software-defined cloud platforms. Proven track record driving organizational impact beyond individual squads—authoring foundational Architecture Decision Records (ADRs), establishing enterprise SDLC standards, and delivering **$1.6M+ in direct project savings ($2M+ inclusive of ongoing licensing and FTE automation)** and **~250K hours saved annually** for Fortune 100 environments. Combines deep foundations in enterprise networking and zero-trust security (Cisco, Fortinet, Zscaler) with production software engineering (AWS Serverless, Terraform, Python, Distributed Systems) to build high-reliability platforms adopted across global operations.
 
 ---
 
@@ -19,7 +19,7 @@ Hands-on Staff Cloud Infrastructure & Principal Platform Engineer with 15+ years
 
 - **Cloud Platform & Serverless:** AWS (Lambda Python 3.12, FastAPI / Mangum, Step Functions, DynamoDB Single-Table, SQS, EventBridge, API Gateway, S3, Athena), Docker, Linux.
 - **Infrastructure as Code & CI/CD:** Terraform / OpenTofu, Spacelift Multi-Stack Gitflow Deployments, AWS AFT, GitHub Actions, Release Please.
-- **Data Engineering & Observability:** Apache Parquet (175x Columnar Compression), Client-Side DuckDB-WASM, ServiceNow REST API, LogScale, SolarWinds, S3 Analytical Pipelines.
+- **Observability & Data Engineering:** Distributed Tracing & Metrics (AWS Lambda Powertools, CloudWatch), Service SLOs, Apache Parquet (175x Compression), Client-Side DuckDB-WASM, LogScale, SolarWinds, S3 Pipelines.
 - **Cybersecurity & Zero Trust (SecOps):** Fortinet (FortiGate, FortiManager JSON-RPC), Palo Alto, PingFederate OAuth 2.0 (RBAC), Cisco ISE, 802.1X NAC (300K+ Ports), Zscaler (ZIA/ZPA), SOPS + AWS KMS, AWS WAF.
 - **Hybrid Infrastructure & Programmability:** Cisco Catalyst/Nexus, CCIE #37708 Foundation, Aruba SD-WAN, Infoblox BloxOne DDI, Python (multiprocessing, pytest), Netconf, Restconf, gRPC, Cisco SNTC EoX APIs.
 - **Systems Architecture & Governance:** Architecture Decision Records (ADRs), Enterprise SDLC & Intake Frameworks, Cross-Functional Technical Roadmapping, Team Delivery & Talent Mentorship.
@@ -29,12 +29,12 @@ Hands-on Staff Cloud Infrastructure & Principal Platform Engineer with 15+ years
 ## Professional Experience
 
 ### HCLTech (Client: Fortune 100 Multinational CPG / Food & Beverage Enterprise)
-**Principal Platform Architect & Forward Deployed Lead** *(Corporate Title: Lead Consultant)* | *Sep 2013 – Present*  
+**Lead Cloud Infrastructure Architect** *(Corporate Title: Lead Consultant)* | *Sep 2013 – Present*  
 *Operating as an embedded Forward Deployed Architect across global infrastructure operations in Canada (2023–Present), Australia (2014–2023), and India (2013–2014).*
 
 - **Enterprise Hybrid Cloud Portal & Automation Platform:**  
   Architected the serverless cloud platform serving as the primary automation and reporting hub for global infrastructure operations. Built a secure on-premise proxy gateway bridging AWS serverless microservices with on-premise systems behind corporate firewalls.  
-  *Organizational Scope & Impact:* Became the daily operational standard adopted by 50+ network, security, and cloud engineers across APAC, EMEA, and the Americas, eliminating fragmented manual CLI workflows.
+  *Scale, Reliability & Impact:* Maintained **99.99% service availability** across serverless APIs processing **hundreds of thousands of automated telemetry checks daily** across **14,000+ enterprise devices**. Adopted as the daily operational standard by 50+ network, security, and cloud engineers across APAC, EMEA, and the Americas, eliminating fragmented manual CLI workflows.
 
 - **High-Performance Analytical Data Architecture (ADR Leadership):**  
   Authored the approved Architecture Decision Record (ADR) modernizing the enterprise infrastructure audit platform from legacy relational databases to an AWS serverless analytical architecture (Step Functions, Batch, S3, Athena, DynamoDB).  
