@@ -11,7 +11,7 @@
 
 ## Professional Summary
 
-Infrastructure and platform engineering leader with 15+ years of enterprise experience modernizing hybrid infrastructure operations into automated, software-defined cloud platforms. Proven track record driving organizational impact beyond individual squads—authoring foundational Architecture Decision Records (ADRs), establishing enterprise SDLC standards, and delivering **$1.6M+ in direct project savings ($2M+ inclusive of ongoing licensing and FTE automation)** while achieving **85% fleet standardization and a 40% reduction in high-severity incidents** for Fortune 100 environments. Combines deep foundations in enterprise networking and zero-trust security (Cisco, Fortinet, Zscaler) with production software engineering (AWS Serverless, Terraform, Python, Distributed Systems) to build high-reliability platforms adopted across global operations.
+Cloud infrastructure and platform engineer with 15+ years of enterprise experience modernizing hybrid infrastructure operations into automated, software-defined cloud platforms. Proven track record driving organizational impact beyond individual squads—authoring foundational Architecture Decision Records (ADRs), establishing enterprise SDLC standards, and delivering **$1.6M+ in direct project savings ($2M+ inclusive of ongoing licensing and FTE automation)** while achieving **85% fleet standardization and a 40% reduction in high-severity incidents** for Fortune 100 environments. Combines deep foundations in enterprise networking and zero-trust security (Cisco, Fortinet, Zscaler) with production software engineering (AWS Serverless, Terraform, Python, Distributed Systems) to build high-reliability platforms adopted across global operations.
 
 ---
 
@@ -29,8 +29,8 @@ Infrastructure and platform engineering leader with 15+ years of enterprise expe
 ## Professional Experience
 
 ### HCLTech (Client: Fortune 100 Multinational CPG / Food & Beverage Enterprise)
-**Lead Cloud Infrastructure Architect** *(Corporate Title: Lead Consultant)* | *Sep 2013 – Present*  
-*Operating as an embedded Forward Deployed Architect across global infrastructure operations in Canada (2023–Present), Australia (2014–2023), and India (2013–2014).*
+**Lead Cloud Infrastructure Engineer** *(Corporate Title: Lead Consultant)* | *Sep 2013 – Present*  
+*Operating as an embedded Forward Deployed Engineer across global infrastructure operations in Canada (2023–Present), Australia (2014–2023), and India (2013–2014).*
 
 - **Enterprise Hybrid Cloud Portal & Automation Platform:**  
   Architected the serverless cloud platform serving as the primary automation and reporting hub for global infrastructure operations. Built a secure on-premise proxy gateway bridging AWS serverless microservices with on-premise systems behind corporate firewalls.  
