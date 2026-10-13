@@ -11,7 +11,7 @@
 
 ## Professional Summary
 
-Infrastructure and platform engineering leader with 15+ years of enterprise experience modernizing hybrid infrastructure operations into automated, software-defined cloud platforms. Proven track record driving organizational impact beyond individual squads—authoring foundational Architecture Decision Records (ADRs), establishing enterprise SDLC standards, and delivering **$1.6M+ in direct project savings ($2M+ inclusive of ongoing licensing and FTE automation)** and **~250K hours saved annually** for Fortune 100 environments. Combines deep foundations in enterprise networking and zero-trust security (Cisco, Fortinet, Zscaler) with production software engineering (AWS Serverless, Terraform, Python, Distributed Systems) to build high-reliability platforms adopted across global operations.
+Infrastructure and platform engineering leader with 15+ years of enterprise experience modernizing hybrid infrastructure operations into automated, software-defined cloud platforms. Proven track record driving organizational impact beyond individual squads—authoring foundational Architecture Decision Records (ADRs), establishing enterprise SDLC standards, and delivering **$1.6M+ in direct project savings ($2M+ inclusive of ongoing licensing and FTE automation)** while achieving **85% fleet standardization and a 40% reduction in high-severity incidents** for Fortune 100 environments. Combines deep foundations in enterprise networking and zero-trust security (Cisco, Fortinet, Zscaler) with production software engineering (AWS Serverless, Terraform, Python, Distributed Systems) to build high-reliability platforms adopted across global operations.
 
 ---
 
@@ -48,9 +48,9 @@ Infrastructure and platform engineering leader with 15+ years of enterprise expe
   Built a centralized automation engine executing 300,000+ switch interface reconfigurations globally for enterprise-wide 802.1X network access control.  
   *Organizational Scope & Impact:* Accelerated corporate security cutover timeline from 20 months to 3 months (**7x overall project acceleration, driven by 30x faster automated per-port execution**), eliminated human cutover errors, and generated **$500K in direct labor savings**.
 
-- **Automated Security Policy & Compliance Engines:**  
-  Engineered automated compliance platforms evaluating 10,000+ devices against security benchmarks and developed a two-phase firewall policy validation tool (FortiManager JSON-RPC APIs).  
-  *Organizational Scope & Impact:* Established self-healing infrastructure returning non-compliant devices to baseline, **saving an estimated ~250,000 engineering hours annually (1.25M+ cumulative hours over 5 years)** across global operational teams.
+- **Automated Continuous Fleet Auditing & Compliance Engine:**  
+  Replaced a semi-annual, manually produced audit (one L4 engineer, ~25–30 KPIs, error-prone) with an automated continuous compliance platform auditing **200+ KPIs daily across 14,000+ devices** (scaling frequency from 2 audits/year to 365 with ~7x broader coverage). Engineered automated remediation script compilers and two-phase firewall policy validators (FortiManager JSON-RPC).  
+  *Organizational Scope & Impact:* Achieved **85% configuration standardization** across global enterprise infrastructure, driving a **40% reduction in high-severity (P1/P2) network incidents**.
 
 - **Distributed Fleet Provisioning & Firmware Distribution:**  
   Designed a distributed peer-to-peer (P2P) binary distribution system for OS/firmware updates and built a Zero-Touch Provisioning (ZTP) platform integrating Infoblox DDI, CMDB, and SolarWinds with Jinja2 templates.  
