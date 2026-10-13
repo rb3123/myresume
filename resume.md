@@ -65,7 +65,14 @@ Cloud infrastructure and platform engineer with 15+ years of enterprise experien
 
 ---
 
-### Prior Professional History (Pre-2013)
+## Applied Systems Innovation
+
+- **Autonomous AI Infrastructure Agent:**  
+  Engineered an applied prototype exploring closed-loop infrastructure operations using the **Model Context Protocol (FastMCP)**, Python (Netmiko), and local LLMs (Ollama); implemented automated telemetry inspection and self-healing configuration remediation for network infrastructure.
+
+---
+
+## Prior Professional History (Pre-2013)
 
 - **Networkers Guru** | Vice President – Technical Operations *(May 2012 – Sep 2013)*: Directed technical training curricula and engineered automated multi-vendor lab environments.
 - **Network Infotech** | Network Engineer *(May 2011 – May 2012)*: Designed, implemented, and maintained multi-site enterprise routing, switching, and security infrastructure.
