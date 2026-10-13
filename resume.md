@@ -20,7 +20,7 @@ Bridges deep domain foundations in enterprise networking and zero-trust security
 ## Core Competencies & Technical Domains
 
 ### Systems Architecture, SDLC & Engineering Leadership
-- **Architecture & System Design:** Architecture Decision Records (ADRs), Distributed Systems Design, Cost/Performance Optimization, High-Scale Data Ingestion & Storage Architecture.
+- **Architecture & System Design:** Architecture Decision Records (ADRs), Distributed Systems Design, Cost/Performance Optimization, High-Scale Data Ingestion & Analytical Storage Architecture.
 - **SDLC & Engineering Governance:** Enterprise SDLC Frameworks, Gitflow Governance, Requirement Intake Models, Agile Sprint Planning, Engineering Guidelines & Code Reviews.
 - **Technical Leadership & Mentorship:** Squad Architect & Technical Lead for 6 full-stack engineers; enterprise instructor and coach for 40+ infrastructure engineers transitioning to software-driven automation.
 
@@ -28,9 +28,9 @@ Bridges deep domain foundations in enterprise networking and zero-trust security
 - **Cloud Infrastructure & Serverless:** AWS Serverless (Lambda Python 3.12, FastAPI / Mangum, Step Functions, DynamoDB Single-Table Design, SQS, EventBridge, API Gateway, S3, Athena), Docker, Linux.
 - **Hybrid Cloud Architecture:** Secure On-Premise Proxy Gateway (bridging AWS cloud microservices with on-premise infrastructure), CloudFront CDN + AWS WAF.
 - **Infrastructure as Code (IaC) & CI/CD:** Terraform / OpenTofu, Spacelift Multi-Stack Gitflow Deployments, AWS Account Factory for Terraform (AFT), GitHub Actions, Release Please.
-- **High-Performance Data & Analytics:** Client-Side DuckDB-WASM, Apache Parquet (175x Compression Optimization), S3 Analytical Data Pipelines.
+- **High-Performance Data & Analytics:** Client-Side DuckDB-WASM, Apache Parquet Columnar Optimization, S3 Analytical Data Pipelines.
 - **Distributed Fleet Provisioning:** Peer-to-Peer (P2P) Binary Distribution System, Zero-Touch Provisioning (ZTP), Jinja2 Templating Engines.
-- **Self-Service Observability & Portals:** Modular "My Dashboard" Architecture, Site Reliability Dashboard (SRD), Automated ServiceNow (SNOW) Ingestion, LogScale & SolarWinds Telemetry.
+- **Self-Service Observability & Portals:** Modular Self-Service Dashboard Architecture, Site Reliability Dashboard (SRD), Automated ServiceNow (SNOW) Ingestion, LogScale & SolarWinds Telemetry.
 - **Event-Driven Service Fulfillment:** ServiceNow (SNOW) Catalog & Approval Workflows, AWS Serverless Event-Driven Backends, Automated DDI/DNS Lifecycle, Resilient Exception & Manual Review Routing.
 - **Applied AI & Emerging Tech (R&D):** Model Context Protocol (MCP), Context-Aware Anomaly Detection Prototypes, Local LLM Integration (Ollama).
 
@@ -38,7 +38,7 @@ Bridges deep domain foundations in enterprise networking and zero-trust security
 - **Identity & Zero Trust Access (ZTNA):** PingFederate OAuth 2.0 with HttpOnly Session Governance & RBAC, Cisco ISE, Global 802.1X NAC Enforcement across 300,000+ switch ports.
 - **Enterprise Firewalls & Automated Policy:** Fortinet (FortiGate, FortiManager, FortiAnalyzer), Palo Alto Networks, Automated JSON-RPC Policy Engines.
 - **Cloud Security & Secrets Governance:** Zscaler (ZIA, ZPA), PAC File Management, SOPS + AWS KMS Envelope Encryption, AWS WAF, Netskope, FireMon.
-- **Continuous Compliance & Auto-Remediation:** Automated Infrastructure Compliance Auditing, Closed-Loop Remediation Script Compilers (`auto-kpi-fix`).
+- **Continuous Compliance & Auto-Remediation:** Automated Infrastructure Compliance Auditing, Closed-Loop Remediation Script Compilers.
 
 ### Enterprise Networking & Hybrid Infrastructure
 - **Core Routing, Switching & Wireless:** Cisco Catalyst & Nexus Switches, IOS-XE/AireOS Wireless, Cisco DNA Center (DNAC), TCP/IP (CCIE #37708 Foundation).
@@ -53,11 +53,11 @@ Bridges deep domain foundations in enterprise networking and zero-trust security
 - **Enterprise Hybrid Cloud Portal & Automation Platform:**  
   Architected the serverless cloud platform serving as the central automation, reporting, and observability hub for enterprise infrastructure operations. Built a secure on-premise proxy gateway bridging AWS serverless microservices (FastAPI on Lambda, Step Functions, DynamoDB Single-Table Design) with on-premise network systems behind corporate firewalls. Integrated enterprise PingFederate OAuth 2.0 authentication with role-based access control (RBAC), perimeter CloudFront/WAF security, and automated multi-stack Spacelift CI/CD deployments.
 
-- **Big Data Audit Analytics & Storage Architecture (ADR 0001):**  
-  Authored the approved Architecture Decision Record (ADR) re-architecting the enterprise infrastructure audit data platform. Replaced legacy on-prem runners and relational databases with an AWS serverless architecture (Step Functions, Batch, S3, Athena, DynamoDB). Benchmarked and implemented **175x data compression** (199 MB JSON $\rightarrow$ 1.14 MB zstd Parquet) across 665,000+ device-KPI evaluations per run, delivering zero-latency dashboard analytics via **client-side DuckDB-WASM** directly in the browser.
+- **High-Performance Analytical Data Architecture (S3, Parquet & DuckDB-WASM):**  
+  Authored the approved Architecture Decision Record (ADR) modernizing the enterprise infrastructure audit platform from legacy relational databases to an AWS serverless analytical architecture (Step Functions, Batch, S3, Athena, DynamoDB). Evaluated high-volume analytical access patterns, achieving over 100x columnar data compression with Apache Parquet and zero-latency in-browser query execution using client-side DuckDB-WASM.
 
-- **Executive Observability & Self-Service "My Dashboard" Platform:**  
-  Engineered an automated executive reporting and operational analytics portal, permanently eliminating a full-time manual reporting role and reallocating valuable engineering capacity to high-priority initiatives. Integrated ServiceNow REST APIs to generate real-time incident queues, closed ticket rates, and SLA breach trending lines, alongside deep telemetry queries from LogScale and SolarWinds. Scaled the architecture from static executive reports into an extensible, user-customizable "My Dashboard" widget ecosystem where leaders and engineers compose personalized analytical views.
+- **Executive Observability & Self-Service Dashboard Platform:**  
+  Engineered an automated executive reporting and operational analytics portal, permanently eliminating a full-time manual reporting role and reallocating valuable engineering capacity to high-priority initiatives. Integrated ServiceNow REST APIs to generate real-time incident queues, closed ticket rates, and SLA breach trending lines, alongside deep telemetry queries from LogScale and SolarWinds. Scaled the architecture from static executive reports into an extensible, user-customizable widget ecosystem where leaders and engineers compose personalized analytical views.
 
 - **Enterprise SDLC & Engineering Governance Framework:**  
   Architected and institutionalized a comprehensive, end-to-end SDLC framework across the automation organization. Established structured requirement intake models, GitHub Projects governance, standard ADR templates, engineering guidelines, and automated release validation workflows.
@@ -69,7 +69,7 @@ Bridges deep domain foundations in enterprise networking and zero-trust security
   Created an automated validation tool resolving firewall change requests against zone topologies and policy matrices. Implemented a two-phase architecture: Phase 1 evaluates rule overlap and compiles action plans with exact JSON-RPC payloads; Phase 2 executes automated policy updates via FortiManager APIs.
 
 - **Enterprise Infrastructure Compliance & Automated Remediation Engine:**  
-  Engineered an automated audit platform evaluating daily configurations across **3,000+ switches, 10,000+ WAPs, 30+ WLCs, and 200+ firewalls** across 200+ compliance KPIs. Proactively identified security vulnerabilities, **saving 1.25 million hours** of senior engineering time. Designed automated remediation compilers (`auto-kpi-fix`) that generate executable remediation scripts to bring non-compliant devices back to baseline.
+  Engineered an automated compliance platform performing daily multi-vendor audits across a global enterprise fleet of 10,000+ switches, wireless access points, controllers, and firewalls against comprehensive security benchmarks. Proactively identified vulnerabilities and misconfigurations, **saving 1.25 million hours** of senior engineering time while automating corrective script generation to return non-compliant devices to baseline.
 
 - **Peer-to-Peer (P2P) Distributed Software & Firmware Distribution:**  
   Designed a distributed peer-to-peer binary distribution system for WAN/LAN infrastructure operating systems and firmware updates, boosting rollout speed 20x while saving critical WAN bandwidth. Generated **$660K in operational savings**.
@@ -105,7 +105,7 @@ Bridges deep domain foundations in enterprise networking and zero-trust security
 - **Hybrid Cloud & Serverless Infrastructure:** Architected and deployed AWS serverless infrastructure (Lambda Python 3.12, Step Functions, DynamoDB Single-Table, SQS, API Gateway) and secure on-premise proxy gateways; managed IaC using Terraform and multi-stack Spacelift Gitflow pipelines with zero-drift governance.
 - **Security & Zero Trust Architecture:** Spearheaded multi-vendor security designs encompassing Fortinet enterprise firewalls, Zscaler cloud security (ZIA/ZPA), 802.1X NAC, and Palo Alto Networks.
 - **Enterprise Asset Lifecycle & Observability:** Engineered automated collectors scraping Cisco Smart Net Total Care (SNTC) EoX APIs, cross-referencing global hardware inventories against obsolescence roadmaps to mitigate enterprise technical debt.
-- **Executive Observability & Self-Service Portals:** Replaced full-time manual daily ITSM reporting by automating API ingestion across ServiceNow, LogScale, and SolarWinds; designed modular "My Dashboard" self-service widgets enabling custom operational views for executive leadership and engineering teams.
+- **Executive Observability & Self-Service Portals:** Replaced full-time manual daily ITSM reporting by automating API ingestion across ServiceNow, LogScale, and SolarWinds; designed modular self-service widgets enabling custom operational views for executive leadership and engineering teams.
 - **Enterprise API Orchestration & Self-Service Workflows:** Architected end-to-end ServiceNow catalog forms and multi-stakeholder approval workflows backed by AWS serverless event consumers; automated manual DDI/DNS record fulfillment with intelligent validation and graceful manual review fallback routing.
 - **Infrastructure Programmability:** Implemented Netconf, Restconf, and gRPC integrations to stream infrastructure telemetry and automate configuration state enforcement.
 
