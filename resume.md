@@ -3,7 +3,7 @@
 **Principal Solutions Architect — Cloud & Infrastructure Automation**  
 *Enterprise Systems · AWS Serverless · Hybrid Cloud Modernization · SecOps*  
 
-**Location:** Greater Toronto Area (GTA), Ontario, Canada (Permanent Resident — Authorized for any Canadian employer)  
+**Location:** Greater Toronto Area (GTA), Canada (Permanent Resident)  
 **LinkedIn:** [linkedin.com/in/rahul-bhattad](https://www.linkedin.com/in/rahul-bhattad/)  
 **Live Portfolio & Contact:** [rb3123.github.io/myresume](https://rb3123.github.io/myresume)  
 
@@ -11,32 +11,32 @@
 
 ## Professional Summary
 
-Principal Solutions Architect with 15+ years of enterprise experience specializing in transforming hybrid infrastructure operations into automated, cloud-native platforms. Proven track record leading distributed engineering squads, authoring foundational Architecture Decision Records (ADRs), and delivering **multi-million-dollar operational cost reductions** and **1.25M+ hours of engineering efficiency** for Fortune 100 enterprise environments.
+Principal Solutions Architect with 15+ years of enterprise experience modernizing hybrid infrastructure operations into automated, software-defined cloud platforms. Proven track record on the Individual Contributor (IC) track as a technical force multiplier—authoring Architecture Decision Records (ADRs), establishing engineering standards, and delivering **multi-million-dollar operational cost reductions** and **1.25M+ hours of engineering efficiency** for Fortune 100 environments.
 
-Bridges deep domain foundations in enterprise networking and zero-trust security (Cisco, Fortinet, Zscaler) with modern software engineering (AWS Serverless, Terraform, Python, Distributed Systems). Recognized for operating as an embedded Forward Deployed Architect, diagnosing chronic operational friction at the front lines, and delivering scalable microservices, self-service portals, and automated fulfillment workflows.
+Combines deep domain foundations in enterprise networking and zero-trust security (Cisco, Fortinet, Zscaler) with hands-on software engineering (AWS Serverless, Terraform, Python, Distributed Systems). Acts as an embedded Forward Deployed Architect, diagnosing operational friction on the front lines and designing production-grade microservices, event-driven pipelines, and self-service automation workflows.
 
 ---
 
 ## Core Competencies & Technical Domains
 
-### Systems Architecture, SDLC & Engineering Leadership
-- **Architecture & System Design:** Architecture Decision Records (ADRs), Distributed Systems Design, Cost/Performance Optimization, High-Scale Data Ingestion & Analytical Storage Architecture.
-- **SDLC & Engineering Governance:** Enterprise SDLC Frameworks, Gitflow Governance, Requirement Intake Models, Agile Sprint Planning, Engineering Guidelines & Code Reviews.
-- **Technical Leadership & Mentorship:** Squad Architect & Technical Lead for 6 full-stack engineers; enterprise instructor and coach for 40+ infrastructure engineers transitioning to software-driven automation.
+### Architecture, Systems Design & Technical Guidance (IC Track)
+- **Systems Architecture & Design:** Architecture Decision Records (ADRs), High-Scale Analytical Storage, Distributed Systems, Cost/Performance Optimization.
+- **SDLC & Engineering Standards:** Enterprise SDLC Frameworks, Gitflow Governance, Requirement Intake Models, Code Reviews & Testing Rigor.
+- **Technical Mentorship:** Hands-on Lead Architect guiding system design, data schemas, and API contracts for full-stack squads; upskilled 40+ engineers in NetDevOps.
 
 ### Cloud Platform & Systems Automation
-- **Cloud Infrastructure & Serverless:** AWS Serverless (Lambda Python 3.12, FastAPI / Mangum, Step Functions, DynamoDB Single-Table Design, SQS, EventBridge, API Gateway, S3, Athena), Docker, Linux.
-- **Hybrid Cloud Architecture:** Secure On-Premise Proxy Gateway (bridging AWS cloud microservices with on-premise infrastructure), CloudFront CDN + AWS WAF.
-- **Infrastructure as Code (IaC) & CI/CD:** Terraform / OpenTofu, Spacelift Multi-Stack Gitflow Deployments, AWS Account Factory for Terraform (AFT), GitHub Actions, Release Please.
-- **High-Performance Data & Analytics:** Client-Side DuckDB-WASM, Apache Parquet Columnar Optimization, S3 Analytical Data Pipelines.
-- **Distributed Fleet Provisioning:** Peer-to-Peer (P2P) Binary Distribution System, Zero-Touch Provisioning (ZTP), Jinja2 Templating Engines.
-- **Self-Service Observability & Portals:** Modular Self-Service Dashboard Architecture, Site Reliability Dashboard (SRD), Automated ServiceNow (SNOW) Ingestion, LogScale & SolarWinds Telemetry.
-- **Event-Driven Service Fulfillment:** ServiceNow (SNOW) Catalog & Approval Workflows, AWS Serverless Event-Driven Backends, Automated DDI/DNS Lifecycle, Resilient Exception & Manual Review Routing.
-- **Applied AI & Emerging Tech (R&D):** Model Context Protocol (MCP), Context-Aware Anomaly Detection Prototypes, Local LLM Integration (Ollama).
+- **Serverless Cloud Architecture:** AWS (Lambda Python 3.12, FastAPI / Mangum, Step Functions, DynamoDB Single-Table, SQS, EventBridge, API Gateway, S3, Athena).
+- **Hybrid Cloud Connectivity:** Secure On-Premise Proxy Gateway (bridging cloud microservices with enterprise infrastructure), CloudFront CDN + AWS WAF.
+- **Infrastructure as Code (IaC) & CI/CD:** Terraform / OpenTofu, Spacelift Multi-Stack Gitflow Deployments, AWS AFT, GitHub Actions, Release Please.
+- **High-Performance Data & Analytics:** Client-Side DuckDB-WASM, Apache Parquet Columnar Optimization, S3 Analytical Pipelines.
+- **Distributed Fleet Provisioning:** Peer-to-Peer (P2P) Binary Distribution System, Zero-Touch Provisioning (ZTP), Jinja2 Templating.
+- **Self-Service Observability & Portals:** Modular Dashboard Architecture, Site Reliability Dashboard (SRD), Automated ServiceNow (SNOW) Ingestion, LogScale & SolarWinds.
+- **Event-Driven Service Fulfillment:** ServiceNow Catalog & Approval Workflows, AWS Event-Driven Backends, Automated DDI/DNS Lifecycle, Resilient Exception Routing.
+- **Applied AI (R&D):** Model Context Protocol (MCP), Context-Aware Anomaly Detection Prototypes, Local LLMs (Ollama).
 
 ### Cybersecurity, Zero Trust & SecOps
-- **Identity & Zero Trust Access (ZTNA):** PingFederate OAuth 2.0 with HttpOnly Session Governance & RBAC, Cisco ISE, Global 802.1X NAC Enforcement across 300,000+ switch ports.
-- **Enterprise Firewalls & Automated Policy:** Fortinet (FortiGate, FortiManager, FortiAnalyzer), Palo Alto Networks, Automated JSON-RPC Policy Engines.
+- **Identity & Zero Trust Access (ZTNA):** PingFederate OAuth 2.0 (HttpOnly Session Governance & RBAC), Cisco ISE, Global 802.1X NAC Enforcement across 300,000+ switch ports.
+- **Enterprise Firewalls & Automated Policy:** Fortinet (FortiGate, FortiManager), Palo Alto Networks, Automated JSON-RPC Policy Engines.
 - **Cloud Security & Secrets Governance:** Zscaler (ZIA, ZPA), PAC File Management, SOPS + AWS KMS Envelope Encryption, AWS WAF, Netskope, FireMon.
 - **Continuous Compliance & Auto-Remediation:** Automated Infrastructure Compliance Auditing, Closed-Loop Remediation Script Compilers.
 
@@ -44,20 +44,20 @@ Bridges deep domain foundations in enterprise networking and zero-trust security
 - **Core Routing, Switching & Wireless:** Cisco Catalyst & Nexus Switches, IOS-XE/AireOS Wireless, Cisco DNA Center (DNAC), TCP/IP (CCIE #37708 Foundation).
 - **SD-WAN & Hybrid WAN:** Aruba Edge Connect SD-WAN, Cross-Domain WAN Telemetry.
 - **DDI & Core Services:** Infoblox BloxOne DDI (DNS, DHCP, IPAM).
-- **Network Programmability & Telemetry:** Python (FastAPI, Flask, Multiprocessing, Hypothesis, pytest), Netconf, Restconf, gRPC, Netmiko, Nornir, NAPALM, TextFSM, ServiceNow (SNOW) REST API Integration, Cisco SNTC EoX API Scraping.
+- **Network Programmability & Telemetry:** Python (FastAPI, Flask, Multiprocessing, Hypothesis, pytest), Netconf, Restconf, gRPC, Netmiko, Nornir, NAPALM, TextFSM, Cisco SNTC EoX API Scraping.
 
 ---
 
 ## High-Impact Project Highlights
 
 - **Enterprise Hybrid Cloud Portal & Automation Platform:**  
-  Architected the serverless cloud platform serving as the central automation, reporting, and observability hub for enterprise infrastructure operations. Built a secure on-premise proxy gateway bridging AWS serverless microservices (FastAPI on Lambda, Step Functions, DynamoDB Single-Table Design) with on-premise network systems behind corporate firewalls. Integrated enterprise PingFederate OAuth 2.0 authentication with role-based access control (RBAC), perimeter CloudFront/WAF security, and automated multi-stack Spacelift CI/CD deployments.
+  Architected the serverless cloud platform serving as the central automation, reporting, and observability hub for enterprise operations. Built a secure on-premise proxy gateway bridging AWS serverless microservices (FastAPI on Lambda, Step Functions, DynamoDB Single-Table Design) with on-premise network systems behind corporate firewalls. Integrated PingFederate OAuth 2.0 authentication with role-based access control (RBAC), perimeter CloudFront/WAF security, and automated multi-stack Spacelift CI/CD deployments.
 
 - **High-Performance Analytical Data Architecture (S3, Parquet & DuckDB-WASM):**  
   Authored the approved Architecture Decision Record (ADR) modernizing the enterprise infrastructure audit platform from legacy relational databases to an AWS serverless analytical architecture (Step Functions, Batch, S3, Athena, DynamoDB). Evaluated high-volume analytical access patterns, achieving over 100x columnar data compression with Apache Parquet and zero-latency in-browser query execution using client-side DuckDB-WASM.
 
 - **Executive Observability & Self-Service Dashboard Platform:**  
-  Engineered an automated executive reporting and operational analytics portal, permanently eliminating a full-time manual reporting role and reallocating valuable engineering capacity to high-priority initiatives. Integrated ServiceNow REST APIs to generate real-time incident queues, closed ticket rates, and SLA breach trending lines, alongside deep telemetry queries from LogScale and SolarWinds. Scaled the architecture from static executive reports into an extensible, user-customizable widget ecosystem where leaders and engineers compose personalized analytical views.
+  Engineered an automated reporting and operational analytics portal, permanently eliminating a full-time manual reporting role and reallocating engineering capacity to high-priority initiatives. Integrated ServiceNow REST APIs to generate real-time incident queues, closed ticket rates, and SLA breach trending lines alongside telemetry from LogScale and SolarWinds. Scaled the architecture into an extensible, user-customizable widget ecosystem where leaders and engineers compose personalized analytical views.
 
 - **Enterprise SDLC & Engineering Governance Framework:**  
   Architected and institutionalized a comprehensive, end-to-end SDLC framework across the automation organization. Established structured requirement intake models, GitHub Projects governance, standard ADR templates, engineering guidelines, and automated release validation workflows.
@@ -72,13 +72,13 @@ Bridges deep domain foundations in enterprise networking and zero-trust security
   Engineered an automated compliance platform performing daily multi-vendor audits across a global enterprise fleet of 10,000+ switches, wireless access points, controllers, and firewalls against comprehensive security benchmarks. Proactively identified vulnerabilities and misconfigurations, **saving 1.25 million hours** of senior engineering time while automating corrective script generation to return non-compliant devices to baseline.
 
 - **Peer-to-Peer (P2P) Distributed Software & Firmware Distribution:**  
-  Designed a distributed peer-to-peer binary distribution system for WAN/LAN infrastructure operating systems and firmware updates, boosting rollout speed 20x while saving critical WAN bandwidth. Generated **$660K in operational savings**.
+  Designed a distributed peer-to-peer binary distribution system for infrastructure operating systems and firmware updates, boosting rollout speed 20x while saving critical WAN bandwidth. Generated **$660K in operational savings**.
 
 - **Zero-Touch Provisioning (ZTP) & Configuration Builder:**  
   Created an end-to-end web provisioning platform integrating Infoblox DDI, CMDB, and SolarWinds with Jinja2 templates, establishing Day-0/Day-1 Zero-Touch Provisioning for enterprise infrastructure. Achieved **$470K in cost savings**.
 
 - **Event-Driven Self-Service Fulfillment & DNS Automation Pipeline:**  
-  Architected an end-to-end automated service fulfillment pipeline integrating ServiceNow catalog forms, multi-stakeholder approval workflows, and an AWS serverless backend. Replaced manual ticket fulfillment for enterprise DDI/DNS record changes: once approved, backend consumers ingest the request, validate business logic against Infoblox, provision records, and automatically resolve the ticket. Engineered intelligent fallback handling that automatically re-routes edge cases to manual review queues with pre-compiled diagnostic payloads, eliminating operational backlogs while ensuring zero-blast-radius reliability.
+  Architected an end-to-end automated service fulfillment pipeline integrating ServiceNow catalog forms, multi-stakeholder approval workflows, and an AWS serverless backend. Replaced manual ticket fulfillment for enterprise DDI/DNS record changes: once approved, backend consumers ingest the request, validate business logic against Infoblox, provision records, and automatically resolve the ticket. Engineered intelligent fallback handling that re-routes edge cases to manual review queues with diagnostic context.
 
 - **Network as Code (NaC) & Configuration Normalization Engine:**  
   Developed a high-performance multiprocessing Python engine parsing raw Cisco running configurations into vendor-agnostic YAML data models. Integrated Jinja2 templating for standard configuration rendering, drift analysis engines using `ciscoconfparse2`, and property-based test suites using `Hypothesis` and `pytest`.
@@ -111,34 +111,12 @@ Bridges deep domain foundations in enterprise networking and zero-trust security
 
 ---
 
-### Networkers Guru
-**Vice President – Technical and Training Operations** | *May 2012 – Sep 2013*
+### Prior Professional History (Pre-2013)
 
-- Designed, standardized, and directed technical training programs for enterprise network engineers and corporate clients.
-- Engineered automated, multi-vendor lab environments for hands-on routing, switching, and security certification simulations.
-- Managed a team of instructors and coached hundreds of engineers in advanced enterprise networking protocols.
-
----
-
-### Network Infotech
-**Network Engineer** | *May 2011 – May 2012*
-
-- Designed, implemented, and maintained multi-site network infrastructure for enterprise clients.
-- Managed end-to-end configuration and troubleshooting for routers, switches, firewalls, wireless access points, and VPN gateways.
-
----
-
-### HCL Technologies Ltd.
-**Technical Support Officer** | *Jan 2011 – May 2011*
-
-- Provided L1/L2 network infrastructure support for a major British telecom service provider, troubleshooting complex WAN circuits, switches, routers, and customer premises equipment (CPE).
-
----
-
-### Networkers Guru
-**Technical Trainer** | *Apr 2009 – Jan 2011*
-
-- Developed curriculum and delivered advanced training in Cisco routing and switching architectures.
+- **Networkers Guru** | Vice President – Technical Operations *(May 2012 – Sep 2013)*: Directed technical training curricula and engineered automated multi-vendor lab environments.
+- **Network Infotech** | Network Engineer *(May 2011 – May 2012)*: Designed, implemented, and maintained multi-site enterprise routing, switching, and security infrastructure.
+- **HCL Technologies Ltd.** | Technical Support Officer *(Jan 2011 – May 2011)*: Provided L1/L2 network infrastructure support for enterprise telecom clients.
+- **Networkers Guru** | Technical Trainer *(Apr 2009 – Jan 2011)*: Delivered advanced technical training in enterprise routing and switching architectures.
 
 ---
 
