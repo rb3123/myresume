@@ -11,7 +11,7 @@
 
 ## Professional Summary
 
-Principal Solutions Architect with 15+ years of enterprise experience modernizing hybrid infrastructure operations into automated, software-defined cloud platforms. Proven track record on the Individual Contributor (IC) track as a technical force multiplier—authoring Architecture Decision Records (ADRs), establishing engineering standards, and delivering **multi-million-dollar operational cost reductions** and **1.25M+ hours of engineering efficiency** for Fortune 100 environments.
+Principal Solutions Architect with 15+ years of enterprise experience modernizing hybrid infrastructure operations into automated, software-defined cloud platforms. Proven track record as a hands-on technical leader and architect—authoring Architecture Decision Records (ADRs), establishing engineering standards, and delivering **multi-million-dollar operational cost reductions** and **1.25M+ hours of engineering efficiency** for Fortune 100 environments.
 
 Combines deep domain foundations in enterprise networking and zero-trust security (Cisco, Fortinet, Zscaler) with hands-on software engineering (AWS Serverless, Terraform, Python, Distributed Systems). Acts as an embedded Forward Deployed Architect, diagnosing operational friction on the front lines and designing production-grade microservices, event-driven pipelines, and self-service automation workflows.
 
@@ -19,10 +19,10 @@ Combines deep domain foundations in enterprise networking and zero-trust securit
 
 ## Core Competencies & Technical Domains
 
-### Architecture, Systems Design & Technical Guidance (IC Track)
+### Systems Architecture, SDLC & Technical Leadership
 - **Systems Architecture & Design:** Architecture Decision Records (ADRs), High-Scale Analytical Storage, Distributed Systems, Cost/Performance Optimization.
 - **SDLC & Engineering Standards:** Enterprise SDLC Frameworks, Gitflow Governance, Requirement Intake Models, Code Reviews & Testing Rigor.
-- **Technical Mentorship:** Hands-on Lead Architect guiding system design, data schemas, and API contracts for full-stack squads; upskilled 40+ engineers in NetDevOps.
+- **Team Leadership & Mentorship:** Lead Architect managing a squad of 6 full-stack engineers across technical delivery, architecture, and talent development; upskilled 40+ engineers in NetDevOps.
 
 ### Cloud Platform & Systems Automation
 - **Serverless Cloud Architecture:** AWS (Lambda Python 3.12, FastAPI / Mangum, Step Functions, DynamoDB Single-Table, SQS, EventBridge, API Gateway, S3, Athena).
